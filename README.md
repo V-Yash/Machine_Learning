@@ -1,7 +1,7 @@
 # Machine_Learning
 
 # Number of Study hrs
-Prdiciton using Supervised ML.
+<p>Prdiciton using Supervised ML.</p>
 Predicting the percentage of student based on the number of study hours.
 Simple linear regression task as it involves just 2 variables.
 
